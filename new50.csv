@@ -1,4 +1,4 @@
-"name,eid,dob"
-"harsha,8812,14-3-2000"
-"girish,8824,12-1-2000"
-"aditya,2921,1-1-2000"
+personId,name,birthYear
+23945,Gerard Pires,1942
+553509,Helen Reddy,1941
+113934,Susan Flannery,1939
